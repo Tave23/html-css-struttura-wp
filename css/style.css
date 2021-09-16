@@ -27,7 +27,7 @@
 main{
   background-color: blue;
   width: 85%;
-  height: 350px;
+  min-height: 350px;
   margin: 0 auto 5px;
 }
 
@@ -39,7 +39,7 @@ main{
 
 aside{
   width: 23%;
-  min-height: 200px;
+  min-height: 280px;
   background-color: lightskyblue;
   float: left;
   margin: 3% 0;
@@ -47,7 +47,7 @@ aside{
 
 .content-main{
   width: 48%;
-  min-height: 200px;
+  min-height: 280px;
   background-color: lightskyblue;
   float: left;
   margin: 3% 3%;
