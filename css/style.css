@@ -17,7 +17,7 @@
   background-color: blueviolet;
 }
 
-.wordpress{
+.jumbotron{
   width: 85%;
   min-height: 300px;
   margin: 0 auto 10px;
@@ -56,7 +56,7 @@ aside{
 
 footer{
   width: 85%;
-  min-height: 45px;
+  height: 45px;
   background-color: coral;
   margin: auto;
 }
